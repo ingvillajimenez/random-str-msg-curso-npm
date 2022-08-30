@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-curso-npm",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingvillajimenez/random-str-msg-curso-npm.git"
+  },
+  "keywords": [],
+  "author": "Juan Villa <ing.villa.jimenez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ingvillajimenez/random-str-msg-curso-npm/issues"
+  },
+  "homepage": "https://github.com/ingvillajimenez/random-str-msg-curso-npm#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
